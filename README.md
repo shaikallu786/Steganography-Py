@@ -22,29 +22,29 @@ Platform Compatibility: Windows, macOS, Linux
 <h2>Development Environment</h2>: PyCharm, VS Code, Jupyter Notebook
 
 <h2>Installation</h2>
-Clone the repository:
-git clone https://github.com/YourGitHubUsername/Python-Image-Steganography.git
-Install the required dependencies:
-pip install opencv-python numpy
-Run the script:
-python steganography.py
-Usage
-Encrypt a Message:
-Update test_choice = "1" in the script.
-Set the correct image path, message, and passcode in the script.
-Run the script to hide the message inside the image.
-Decrypt a Message:
-Update test_choice = "2" in the script.
-Set the encoded image path and the correct passcode in the script.
-Run the script to retrieve the hidden message.
-Example
-Decoded Message: Hidden message!
-Contributing
-Contributions are welcome! Fork the repository and submit a pull request with well-documented changes.
+Clone the repository:<br>
+git clone https://github.com/YourGitHubUsername/Python-Image-Steganography.git<br>
+Install the required dependencies:<br>
+pip install opencv-python numpy<br>
+Run the script:<br>
+python steganography.py<br>
+Usage <br>
+Encrypt a Message:<br>
+Update test_choice = "1" in the script.<br>
+Set the correct image path, message, and passcode in the script.<br>
+Run the script to hide the message inside the image.<br>
+Decrypt a Message:<br>
+Update test_choice = "2" in the script.<br>
+Set the encoded image path and the correct passcode in the script.<br>
+Run the script to retrieve the hidden message.<br>
+Example<br>
+Decoded Message: Hidden message!<br>
+<h2>Contributing</h2><br>
+Contributions are welcome! Fork the repository and submit a pull request with well-documented changes.<br>
 
-License
-This project is open-source and available under the MIT License.
+<h2>License</h2><br>
+This project is open-source and available under the MIT License.<br>
 
-Contact
-📌 Name: Shaik Allabakash
-📌 Email: shaikallu0000@gmail.com
+<h2>Contact</h2><br>
+📌 Name: Shaik Allabakash<br>
+📌 Email: shaikallu0000@gmail.com<br>
