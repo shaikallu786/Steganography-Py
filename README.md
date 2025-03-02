@@ -13,14 +13,12 @@ This project implements an Image Steganography tool in Python, allowing users to
 Programming Language: Python<br>
 
 <h2>Libraries</h2>:<br>
-
 OpenCV (cv2) – For image processing<br>
 NumPy – For efficient pixel manipulation<br>
 Sys – For handling command-line execution<br>
 Platform Compatibility: Windows, macOS, Linux<br>
 
 <h2>Development Environment</h2>: PyCharm, VS Code, Jupyter Notebook<br>
-
 <h2>Installation</h2><br>
 <b></b>Clone the repository:<br>
 git clone https://github.com/YourGitHubUsername/Python-Image-Steganography.git<br>
