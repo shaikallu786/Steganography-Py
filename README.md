@@ -12,7 +12,7 @@ This project implements an Image Steganography tool in Python, allowing users to
 <h2>Technology Used </h2><br>
 Programming Language: Python<br>
 
-<h2>Libraries</h2>:<br>
+<h2>Libraries:</h2><br>
 OpenCV (cv2) – For image processing<br>
 NumPy – For efficient pixel manipulation<br>
 Sys – For handling command-line execution<br>
